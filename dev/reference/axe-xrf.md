@@ -57,8 +57,8 @@ weigh(heavy_m)
 #>    object                             size
 #>    <chr>                             <dbl>
 #>  1 glm.formula                     9.59   
-#>  2 rule_augmented_formula          9.59   
-#>  3 base_formula                    9.59   
+#>  2 base_formula                    9.59   
+#>  3 rule_augmented_formula          9.59   
 #>  4 xgb.callbacks.cb.evaluation.log 0.0351 
 #>  5 glm.model.glmnet.fit.beta       0.0177 
 #>  6 glm.model.glmnet.fit.call       0.0107 
