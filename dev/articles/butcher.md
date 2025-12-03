@@ -128,7 +128,7 @@ function from the rlang package:
 ``` r
 library(rlang)
 env_print(big_lm$terms)
-#> <environment: 0x556fddabcb10>
+#> <environment: 0x557821179aa0>
 #> Parent: <environment: global>
 #> Bindings:
 #> • some_junk_in_the_environment: <dbl>
